@@ -4,9 +4,7 @@ A backend service that identifies and reconciles customer identities across mult
 
 ## 🌐 Live Endpoint
 
-> **Base URL:** `https://bitespeed-identity-xxxx.onrender.com`
->
-> _(URL will be updated after deployment)_
+> **Base URL:** [`https://bitespeed-identity-reconciliation-36ve.onrender.com`](https://bitespeed-identity-reconciliation-36ve.onrender.com)
 
 ### `POST /identify`
 
